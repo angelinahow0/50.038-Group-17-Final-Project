@@ -1,0 +1,561 @@
+wtc_id,city,city_country,city_lat,city_lon,station_id,station_name,distance_km,station_reliable
+c54acf38-3029-496b-8c7a-8343ad82785c,Milan,Italy,45.4641943,9.1896346,16081,Milano Linate,5.4,True
+0bd12654-ed64-424e-a044-7bc574bcf078,Yasawa Islands,Fiji,-17.2909471,177.12578580330327,91680,Nandi,61.5,True
+73036cda-9134-46fc-a2c6-807782d59dfb,Whistler,Canada,50.1171903,-122.9543022,71175,Whistler / Alta Lake,1.3,True
+3872c9c0-6b6e-49e1-9743-f46bfe591b86,Guanajuato,Mexico,20.9876996,-101.0,76577,"Guanajuato, Gto.",26.2,True
+e1ebc1b6-8798-422d-847a-22016faff3fd,Surabaya,Indonesia,-7.2459717,112.7378266,96933,Surabaya / Perak,4.0,True
+26bd92cc-1bd7-46bc-a132-9c227115194a,Nuuk,Greenland,64.1766835,-51.7359356,04250,Godthaab / Nuuk,1.3,True
+20f80ed8-ce7f-43ad-a34d-a0cb156f5d4e,Windhoek,Namibia,-22.53356015,17.045477525861745,68110,Windhoek,6.7,True
+0dae5759-947a-40c9-aaea-e2e647f1061e,Kingston,Jamaica,17.9712148,-76.7928128,78397,Kingston / Norman Manley,4.3,True
+4e2d3678-bbb3-428e-a1df-0ba956ef3c77,Nafplio,Greece,37.5659229,22.8068782,16718,Elefsis Airport,85.8,True
+b78d096a-87d0-4010-baac-e4879cab6aa9,Tbilisi,Georgia,41.6934591,44.8014495,37545,Tbilisi,4.3,True
+d5bca023-e7ef-45a6-bbf3-f27313ce544d,Heidelberg,Germany,49.4093582,8.694724,10734,Heidelberg,3.4,True
+a881b470-86d0-4ce0-913b-1d453f68466e,Hobart,Australia,-42.8825088,147.3281233,94970,Hobart,3.0,True
+6234202f-ff97-4d9b-955f-92bccb61c317,Nagasaki,Japan,33.1154683,129.7874339,47805,Hirado,34.2,True
+4dd122b5-7ab0-48b0-999b-dd08231fd517,Utrecht,Netherlands,52.0907006,5.1215634,06260,De Bilt,4.3,True
+9a90f31c-7073-4cdd-a6d1-6a6a1cbb4e8f,Bagan,Myanmar,21.1317111,94.8623644,48042,Mandalay,159.2,False
+46cdc57e-d4d6-49a4-819a-5b8161bbdb3e,Malmö,Sweden,55.6052931,13.0001566,06180,Koebenhavn / Kastrup,22.0,True
+5aab6f8f-70db-41a8-a1fb-e8d9026e533b,Amsterdam,Netherlands,52.3730796,4.8924534,06240,Amsterdam Airport Schiphol,11.8,True
+8755d625-7efa-4e92-aed9-cb2386083a44,New York,United States,40.7127281,-74.0060152,KJRB0,New York / Wall Street,1.3,True
+79a47311-1ffb-44d1-bd87-a1a9fb190f40,Chicago,United States,41.8755616,-87.6244212,72534,Chicago Midway Airport,14.6,True
+630b0ecb-8651-476e-803d-b65f99f342a3,Raleigh,United States,35.7803977,-78.6390989,72306,Raleigh-Durham International  Airport,17.6,True
+0d1ac2c5-e3d5-40b5-ad56-01f3d67710ab,Trondheim,Norway,63.4304475,10.3952118,01257,Trondheim / Høiset,3.7,True
+955899e4-7ccb-4b6a-a85c-a9b73efe6876,Bruges,Belgium,51.2085526,3.226772,06418,Zeebrugge / Zeemanshaard,15.8,True
+57239ab4-5376-4b81-a35e-fc8a27fb5812,Reykjavik,Iceland,64.145981,-21.9422367,04030,Reykjavik,2.5,True
+6d8f232e-d34d-4dac-95c4-e01d7983124c,Seoul,South Korea,37.5666791,126.9782914,47108,Seoul,1.0,True
+86f34228-6edb-4171-ba62-79fffa9e06f6,Ankara,Turkey,39.9207759,32.8540497,17130,Ankara / Central,4.1,True
+fa445d6d-7fb4-4832-ba37-08ff468a1430,Kyoto,Japan,35.0115754,135.7681441,47759,Kyoto,3.2,True
+1fd503e7-d209-40c1-abd0-299af9c7d4de,Tampa,United States,27.9477595,-82.458444,KTPF0,Tampa / The Pointe At Harbour Island,3.7,True
+39e15d15-ec4c-4ba9-9cd5-6775945aad8f,Dublin,Ireland,53.3493795,-6.2605593,03969,Dublin Airport,9.4,True
+c0cc2c39-9e57-4edd-8696-2119a96ca6cb,Washington,United States,38.8950368,-77.0365427,72405,Washington National Airport,5.0,True
+dd54b0e6-43e7-4be6-9eb4-5e4863f25f52,Livingstone,Zambia,-17.853135,25.861429,67743,Livingstone,6.2,True
+09323a57-0f0c-4190-9ce5-e689efe6137d,Kraków,Poland,50.0619474,19.9368564,12566,Krakow,10.1,True
+87177e3c-1535-45af-a1e7-e65357f2c0d3,Petra,Jordan,30.3258363,35.4745669,40310,Ma'An,34.5,True
+50dc5be0-a23e-4da3-aecc-f5f095c26bdb,Athens,Greece,37.9755648,23.7348324,16714,Athens / Athenai / Pláka,1.9,True
+769e57b7-a2fe-4eb9-8d39-4c7a0b940c02,Malé,Maldives,4.1779879,73.5107387,43555,Male,3.5,True
+163cf783-592c-448f-b33c-f28ac7cce617,Austin,United States,30.2711286,-97.7436995,72254,Camp Mabry/Austin City Asos,5.5,True
+e3597f71-7e84-47f9-b3f2-567398c8fcdd,Pago Pago,American Samoa,-14.2754786,-170.7048298,91765,Pago Pago / Int. Airport,6.6,True
+e8ad2770-6863-4e5c-a993-04884328802e,Luanda,Angola,-8.8272699,13.2439512,66160,Luanda,2.8,True
+ae842628-e555-44fe-881f-93ac5378c589,New Orleans,United States,29.9759983,-90.0782127,KVSH0,New Orleans,2.6,True
+4574d558-f5fa-4e6e-bead-e21b8cf0edcc,Raja Ampat,Indonesia,-0.7125553,130.30344727618905,97502,Sorong / Jefman,93.7,True
+fa34b503-34f8-42a2-b918-a96c507e1378,Hamilton Island,Australia,-20.3546262,148.9560518,YBHM0,Hamilton Island,0.8,True
+677fa6ef-b91a-4438-a73d-d497fc7cf2d8,Melbourne,Australia,-37.8142454,144.9631732,95873,Latrobe University / Kingsbury,13.1,True
+32ad5264-2d93-468d-84a0-f816c4833366,Puebla,Mexico,18.833333,-98.0,76685,"Puebla, Pue.",29.8,True
+1a3cc3d3-d65f-481f-acc0-424bd9c3210e,Richmond,United States,37.5385087,-77.43428,72401,Richmond International  Airport,10.6,True
+5324f69c-3393-469d-b375-8f6e92fa085a,Bridgetown,Barbados,13.0977832,-59.6184184,78954,Grantley Adams,15.0,True
+fe145875-322b-408f-8ce9-f4d04baf00a7,Oaxaca City,Mexico,17.0604663,-96.7253575,76775,"Oaxaca, Oax.",1.2,True
+bf232406-1a85-47a5-9287-6ba81272a3f0,San Sebastián,Spain,43.3224219,-1.9838889,08027,San Sebastian / Igueldo,5.9,True
+2216dc6e-cb6a-4107-b6ea-dceebd9a53eb,Sedona,United States,34.8688613,-111.7614394,KSEZ0,Sedona / West Sedona,3.3,True
+5a944377-dccf-4cc1-9234-de053e9cc1d2,Cotonou,Benin,6.3676953,2.4252507,65344,Cotonou,5.0,True
+9ea78120-75de-4bce-b095-fb0811a3294f,Sarajevo,Bosnia and Herzegovina,43.8519774,18.3866868,14654,Sarajevo-Bejelave,4.1,True
+dfed6949-406d-4064-8c2e-5c794ded2e27,Tirana,Albania,41.3281482,19.8184435,13615,Tirana,3.0,True
+8221d5a5-e813-4993-9bf6-c2bac26d0cb8,Rio de Janeiro,Brazil,-22.9110137,-43.2093727,83755,Rio De Janeiro Aeroporto,4.5,True
+056161c2-b2c6-40f9-8546-bef688dd90e7,Curitiba,Brazil,-25.4295963,-49.2712724,83842,Curitiba,0.6,True
+12ffe1e2-6387-46d6-8bbb-267855faf5f8,Phnom Penh,Cambodia,11.5730391,104.857807,48991,Phnom-Penh / Pochentong,2.7,True
+807e0033-d4ff-4257-bcbc-60da406b8e4d,Fès,Morocco,34.0346534,-5.0161926,60141,Fes-Sais,11.7,True
+ab9a9d64-58c2-4cb0-a9ad-81ed9b17cd69,Toronto,Canada,43.6534817,-79.3839347,71508,Toronto City,2.2,True
+749963fe-2962-4ffe-b78a-391afdd6a7bf,Lucca,Italy,44.017763900000006,10.454430026192636,16134,Monte Cimone,28.2,True
+ab8dc374-5acd-430f-b940-7885899ef8c5,Edmonton,Canada,53.5462055,-113.491241,71157,Edmonton Blatchford,3.3,True
+3c6506e6-c494-4622-aba3-2ba895530c7a,Barcelona,Spain,41.3828939,2.1774322,08181,Barcelona / Aeropuerto,14.4,True
+75c6f7c9-5c87-464a-9c28-c91ecd55da98,Banff,Canada,51.175076,-115.5720773,71122,Banff,2.3,True
+a4f86f85-430e-400a-bda5-315c7bdefd57,Maputo,Mozambique,-25.966213,32.56745,67341,Maputo / Mavalane,5.5,True
+a010e07c-cf4b-4cf9-8b08-40df2094addd,Dar es Salaam,Tanzania,-6.8160837,39.2803583,63894,Dar Es Salaam Airport,10.5,True
+61a3b6e3-f03f-42e4-b10d-80a3d1aec106,Hamilton,Bermuda,32.2942679,-64.7853167,78016,Bermuda,12.5,True
+5cf8ffe5-b559-43a9-a030-fcf73b09400b,Santiago de Chile,Chile,-33.4377756,-70.6504502,85577,Santiago Q. Normal,3.1,True
+273ff2d2-80b8-4886-81e4-1908a11e6f5a,Shanghai,China,31.2312707,121.4700152,58367,Shanghai / Hongqiao,8.0,True
+459b1d00-2b6e-4158-afe5-e091350990fe,Kathmandu,Nepal,27.708317,85.3205817,44454,Kathmandu Airport,4.6,True
+60ac5495-4952-41a0-a2e8-d321d2f23a4d,Auckland,New Zealand,-36.852095,174.7631803,93110,Auckland Aerodrome Aws,16.8,True
+77b02e0f-770c-4fa7-b0a5-7cde588b203d,Québec City,Canada,46.8137431,-71.2084061,71578,Beauport,3.0,True
+ca07286f-3b0c-4fd3-acae-444e7514def0,Bogotá,Colombia,4.6533816,-74.0836333,80222,Bogota / Eldorado,10.2,True
+db0dcdf1-2bea-470f-935f-2c98bd125592,Avarua,Cook Islands,-21.2074736,-159.7708145,91843,Rarotonga,4.8,True
+ae02cf5f-1483-4054-9122-186c5eb08664,Izmir,Turkey,38.23166,27.02997,17219,Izmir / Adnan Menderes,11.2,True
+ba4d54dd-0e8d-4039-aad9-1f246fdacadb,Skopje,North Macedonia,41.9961816,21.4319213,13588,Skopje-Zajcev Rid,3.5,True
+38c4cd22-ea4a-4ae1-961b-939933868829,Cartagena,Colombia,10.4265566,-75.5441671,80022,Cartagena / Rafael Nunez,4.0,True
+32c4ac7c-550f-417c-afcc-a1dc2b183e8f,Dubrovnik,Croatia,42.6491029,18.0939501,14474,Dubrovnik / Cilipi,16.8,True
+f139e95f-1d18-40b9-a7f0-f8d908c05e53,Bergen,Norway,60.3943055,5.3259192,01317,Bergen / Florida,1.3,True
+6a0bce48-86be-4f4c-9106-9308a936d565,Bocas del Toro,Panama,9.26847485,-81.99322424821933,78767,Puerto Limon,141.6,True
+7c623237-bc71-4ba0-ae74-a64b0201eeba,Santo Domingo,Dominican Republic,18.4801972,-69.942111,78486,Santo Domingo,8.1,True
+198847d2-1823-4b9d-98dc-c9b9d22eb768,Baños,Ecuador,-1.33191575,-78.26252853850661,84179,El Puyo,39.4,True
+24446934-6d3a-4d1d-89e6-82c8337fd26c,Cairo,Egypt,30.0443879,31.2357257,62366,Cairo International Airport,18.6,True
+1c516349-193b-4421-9959-ad6cefe95efd,Iquitos,Peru,-3.749365,-73.2444145,84377,Iquitos,0.6,True
+2ebb8f10-653a-47d5-a403-f7a441bbc0a4,Charlotte,United States,35.2272086,-80.8430827,72314,Charlotte/Douglas International Airport,9.2,True
+caf79b01-70b6-450b-9601-66fdadb8df39,Marseille,France,43.2961743,5.3699525,07650,Marseille / Marignane,20.4,True
+a93b9a93-c474-483c-9d27-8bb1f8b0090c,Malabo,Equatorial Guinea,3.741877,8.7740663,64810,Malabo/Fernando Poo,1.2,True
+c7d691ad-b361-404d-a6e4-ab4f7a4120c8,Mbabane,Eswatini,-26.325745,31.144663,68396,Manzini / Matsapa Airport,27.8,True
+ad6338c1-1ad3-4f1c-8c78-26d7c86078fd,Sofia,Bulgaria,42.6977028,23.3217359,15614,Sofia Observ.,7.3,True
+6d6a0097-d1d4-40f0-b2ae-28d0c9ab9dfc,San Marino,San Marino,43.9458623,12.458306,16149,Rimini,16.0,True
+45c083b3-fc34-4d42-b74a-cd9dffe4156a,Berlin,Germany,52.510885,13.3989367,10389,Berlin / Alexanderplatz,1.4,True
+9f3e50a0-752d-42f5-b129-72d7880beab7,Helsinki,Finland,60.1674881,24.9427473,02978,Helsinki Kaisaniemi / Harju,1.8,True
+8cc00822-8c1e-4446-ba89-0a35128ad69a,Warsaw,Poland,52.2337172,21.071432235636493,12375,Warszawa-Okecie,10.3,True
+be181851-282e-409b-9626-1da82ed060f5,Verona,Italy,45.4424977,10.985737689444765,16090,Verona / Villafranca,11.4,True
+3a70dff6-b805-4e41-accf-480d43ed6ba7,Annecy,France,45.8992348,6.1288847,LFLP0,Annecy / Metz-Tessy,4.3,True
+2f3a6926-553f-4d7a-acf8-5b17af6f2e93,Colombo,Sri Lanka,6.9388614,79.8542005,43466,Colombo,4.5,True
+25b9fbd9-78cb-4b0c-a050-2488c9431275,Fraser Island,Australia,-25.24672,153.1468044,95565,Hervey Bay,25.5,True
+8394f9fd-03fe-4dca-9e73-4598909d2450,Dakar,Senegal,14.693425,-17.447938,61641,Dakar / Yoff,7.1,True
+5f6b28e0-a6a1-4665-81ca-ebb074134424,Wadi Rum,Jordan,29.5084443,35.3362154,40199,Eilat,37.7,True
+d7e45496-f17a-4187-a9a5-ce30958370bf,Munich,Germany,48.1371079,11.5753822,10865,München,1.9,True
+139d05b0-435f-42e5-850f-3aa57ac0fefb,Freiburg,Germany,47.9960901,7.8494005,10803,Freiburg,0.4,True
+155b4225-a616-4f5e-ad82-a692458165d1,Singapore,Singapore,1.2899175,103.8519072,48694,Singapore / Paya Lebar,11.2,True
+5ace1d13-c389-478b-927a-71d8f98a903d,Piran,Slovenia,45.5284919,13.5684485,13105,Portoroz,1.3,True
+771fda85-870b-4dcb-ad42-763aa6a6fbb0,Valletta,Malta,35.8989979,14.5136607,16597,Luqa,6.1,True
+12720905-6c3e-4a3f-a805-6b30460843b6,Thessaloniki,Greece,40.6403167,22.9352716,16622,Thessaloniki Airport,14.0,True
+283c7ec9-07c6-4f35-a986-495aea46ee15,Georgetown,Guyana,6.8137426,-58.1624465,81001,Georgetown,2.1,True
+2756e007-9330-4d8c-8e7c-1cb2bfd5a1fe,Jeju Island,South Korea,33.38034745,126.54825445912049,47182,Cheju International Airport,14.0,True
+df9d25a4-a439-4fe3-9b2a-1f1caba531b9,Valencia,Spain,39.4697065,-0.3763353,08285,Valencia,1.6,True
+45ad5739-256e-4580-aead-6148dc11f958,Hoi An,Vietnam,15.8795863,108.3319406,48855,Da Nang,23.3,True
+333aa3ee-33b8-4db0-b7a4-6fe335b33f37,Kolkata,India,22.5726459,88.3638953,42807,Calcutta / Alipore,5.4,True
+c7b3c669-a693-485a-96ec-6b1147b80d11,Budapest,Hungary,47.48138955,19.14609412691246,12843,Budapest / Lorinc,6.0,True
+17468e16-e2af-4354-964d-a941191771d7,Yogyakarta,Indonesia,-7.8011998,110.3646608,96839,Semarang / Ahmadyani,91.0,True
+8418d235-a78e-43fc-bdae-3f7c45ac67ca,Monaco,Monaco,43.7323492,7.4276832,07690,Nice,20.5,True
+f3126fe6-bf7d-442c-951e-4c59aa34c417,Rome,Italy,41.8933203,12.4829321,16239,Roma / Ciampino,14.8,True
+54ee0cc1-402d-42fc-a453-e5a7d5089247,Stockholm,Sweden,59.3251172,18.0710935,02464,Stockholm Bromma Airport,7.4,True
+9226f6e6-02df-48b5-be28-c7d65ae84d5e,Taipei,Taiwan,25.0375198,121.5636796,46696,Sungshan / Taipei,3.5,True
+a81ab0eb-12ab-4dd4-97c6-cc74e1c0cbaa,Tokyo,Japan,35.6768601,139.7638947,47662,Tokyo,0.8,True
+46a4a4b9-6bf0-4461-9c58-f1961e60a1e9,Noumea,New Caledonia,-22.2745264,166.442419,91592,Noumea Nlle-Caledonie,1.2,True
+3945728c-0c92-4d4f-aef2-000b2e1a657f,Palermo,Italy,38.1112268,13.3524434,16405,Palermo / Punta Raisi,23.5,True
+33bfc52d-e48e-4738-be09-ddfa3cfb6603,Sicily,Italy,37.587794,14.155048,16450,Enna,11.5,True
+84861e0c-6b58-4b8f-a16e-ca371a9c01cd,Amman,Jordan,31.9515694,35.9239625,40270,Amman Airport,6.6,True
+4a16fb5b-86c8-483f-a0a2-d4b5619efd0e,Nairobi,Kenya,-1.30261485,36.82884201813725,63741,Nairobi / Dagoretti,8.8,True
+426c4735-6fab-4da6-9c81-6307beb32236,Panama City,Panama,8.9714493,-79.5341802,78792,Tocumen,20.4,True
+900f7bad-dc7e-4017-a6a9-16e3211d110b,Nagoya,Japan,35.1851045,136.8998438,47636,Nagoya,6.4,True
+03c5ff46-5be3-423a-a2e1-f0ede04ca279,Fukuoka,Japan,33.6251241,130.6180016,47809,Iizuka,8.1,True
+74275da0-d33c-4624-b50f-f3d254eaf9a8,Maseru,Lesotho,-29.310054,27.478222,68449,Ficksburg,67.8,True
+59358844-732e-44cc-8fc8-fd7266474a8f,Mexico City,Mexico,19.3207722,-99.1514677512441,76681,Geografia Unam D.f. / Ciudad Universitaria,3.4,True
+ecfe7100-f347-4fc1-bae0-f7d38c9a82ac,Doha,Qatar,25.2856329,51.5264162,41170,Doha International Airport,5.7,True
+5e646c11-3635-4227-94f1-9c1872ce3ee8,Astana,Kazakhstan,51.1159933,71.46770587485393,35188,Akmola,7.3,True
+7a01b324-f2b0-4249-a575-16a5eaa65a33,Luang Prabang,Laos,19.8887438,102.135898,48930,Luang-Prabang,0.7,True
+a5d58454-66d9-466a-870f-a490ad04b2fd,Oaxaca,Mexico,17.0,-96.5,76775,"Oaxaca, Oax.",24.2,True
+b4770bbe-7d7e-400d-9e43-c208fad6fdee,Kaunas,Lithuania,54.8982139,23.9044817,26629,Kaunas,4.8,True
+f33d7ecf-5952-4341-80cd-37c6d1b9b092,Podgorica,Montenegro,42.4415238,19.2621081,13463,Podgorica-Grad,2.0,True
+99b5a71f-eead-4050-a7a4-df5e16a42c0b,Kuching,Malaysia,1.5597561,110.345397,96413,Kuching,8.6,True
+6eeed41e-07f1-4e44-85d3-a04a06bb3500,Port Louis,Mauritius,-20.1624522,57.5028044,61995,Vacoas Mauritius,15.3,True
+5e2fff6d-15ae-4deb-80a8-6f18d730d9f8,Beira,Mozambique,-19.828707,34.841782,67297,Beira,6.9,True
+3ecbe7bd-d9a0-4690-9ab2-5e143f92fe64,Salalah,Oman,17.0174945,54.1010923,41316,Salalah,2.6,True
+5af283b6-2a6b-4fb1-893d-953529dbad3b,Pretoria,South Africa,-25.7459277,28.1879101,68262,Pretoria,1.5,True
+cc659b5c-096d-4c4e-be39-a30676e948d9,Monterrey,Mexico,25.6802019,-100.315258,76393,Monterrey,23.7,True
+976ddd49-62ec-4b58-8ef1-d079b2f6bcdf,Chisinau,Moldova,47.0245117,28.8322923,33815,Kisinev,11.5,True
+2ea04a64-c0d2-4cad-8923-b83c11109f4b,Oslo,Norway,59.9133301,10.7389701,01492,Oslo-Blindern,4.3,True
+c0ddb6a7-e9b0-480f-8e05-54b316638198,Paramaribo,Suriname,5.82417645,-55.16628130970069,81225,Zanderij,41.8,True
+5c528d71-fa3e-40c1-b8ac-0cc2724db702,Kotor,Montenegro,42.4249205,18.7713332,13457,Tivat,4.2,True
+007e1c9a-9bbf-4560-a8d5-4fb17176b300,Rabat,Morocco,33.9851778,-6.8461433,60135,Rabat-Sale,10.3,True
+34daf415-739f-45d7-a127-f47f0dcf63f9,Arequipa,Peru,-16.3988667,-71.5369607,84752,Arequipa,9.2,True
+aa77dd0f-f294-4af2-9499-547652ef8472,Krakow,Poland,50.0619474,19.9368564,12566,Krakow,10.1,True
+22724026-a52a-4591-ac15-5e3c1aad0bc6,Chiang Rai,Thailand,19.7589517,99.6734592,48303,Chiang Rai,24.2,True
+96591192-71e5-48cd-bc25-dfc40ad0a497,Maastricht,Netherlands,50.85798545,5.6969881818221095,06380,Maastricht Airport Zuid Limburg,8.9,True
+8e9cdd1b-520b-4d7c-84d6-ce390886a60d,Christchurch,New Zealand,-43.530955,172.6364343,93780,Christchurch,8.8,True
+4050b3a8-bc31-4a00-a0bc-74ec708a8022,Gotland,Sweden,57.4174802,18.536957927499856,02590,Visby Airport,29.9,True
+51573d8c-89d4-469e-b1a6-5be6a389b9d9,St Ives,United Kingdom,50.2149064,-5.4795083,03808,Camborne,11.6,True
+248ce3f4-3c86-4ea3-91f2-0d69f703e1e4,Tromsø,Norway,69.6516345,18.9558585,01026,Tromso,0.9,True
+3aece1d2-640d-478c-97cb-7b2af24c0d4b,Granada,Nicaragua,11.9303801,-85.9535897,78741,Managua A. C. Sandino,33.7,True
+9ebf736e-30eb-4a14-83f6-a171b29422dd,San Juan,Puerto Rico,18.38423905,-66.05343997364733,78526,"San Juan / Int., Puerto Rico",7.8,True
+c6df2a0a-5804-4782-980c-b785baff6338,Salt Lake City,United States,40.7596198,-111.886797,72572,Salt Lake City International  Airport,7.2,True
+2369b939-7343-43a5-939d-8883c2380da4,Asunción,Paraguay,-25.2800459,-57.6343814,86218,Asuncion / Aeropuerto,1.5,True
+43fc0ee7-5983-4c3c-af37-93f16a8561e1,Manila,Philippines,14.5904492,120.9803621,98425,Manila,0.9,True
+20d1bd3e-dd04-4d5a-a734-32dea79ec466,Bern,Switzerland,46.9484742,7.4521749,06631,Bern-Liebefeld / Rütti,4.8,True
+4c62d957-8e4e-4558-beea-2bf8178c5463,Catania,Italy,37.5023612,15.0873718,16460,Catania / Fontanarossa,5.2,True
+3b685f46-cdb6-497b-865e-2cd7657a6830,Davao,Philippines,7.0648306,125.6080623,98753,Davao Airport,7.4,True
+43b173aa-a4f5-4676-9434-bacadf6d49ff,Porto,Portugal,41.1494512,-8.6107884,08546,Porto / Serra Do Pilar,2.0,True
+4fc0ec2d-41b6-44d1-9c67-16f9caf9a3f1,Azores,Portugal,37.80855645,-25.47313739124529,08512,Ponta Delgada / Nordela Acores,21.6,True
+c6f2dcd7-e2f4-4b91-b737-717593827384,Freetown,Sierra Leone,8.479004,-13.26795,61856,Lungi,17.0,True
+6e46b45f-19d2-43ff-9a08-f5c4b59e1f22,Laval,Quebec,45.60558895,-73.73456014508847,ADI6G,Auteuil,5.0,True
+7f92c683-b2a3-4058-a2dc-758c1d230a26,Saint-Denis,Réunion,-20.8799889,55.448137,61980,Saint-Denis / Gillot,7.1,True
+6ceb9976-69b0-49a0-b91d-ac48234e2902,Constanta,Romania,44.1767161,28.6507598,15480,Constanta,4.7,True
+80ed0bdd-62c4-4068-88c6-3eba6e3c4e46,Puerto Vallarta,Mexico,20.6407176,-105.220306,76556,"Tepic, Nay.",102.9,True
+933a8b39-e129-41f3-b6ab-3f58d695536b,Cape Town,South Africa,-33.9288301,18.4172197,68816,Cape Town Airport,17.9,True
+1c1ede32-515d-4a46-8019-15e3196afd18,Castries,Saint Lucia,13.90904385,-60.97792414113452,78948,Hewanorra International Airport,17.9,True
+ef66a584-fc99-4c05-af1a-263a6f5cbacf,São Tomé,São Tomé and Príncipe,0.3389242,6.7313031,64501,Port-Gentil,252.4,False
+f7c802c7-e3cb-4922-ae40-a14f5ea56907,Madrid,Spain,40.4167047,-3.7035825,08222,Madrid,1.7,True
+ddea7cd4-1b80-46f6-a51d-2649a27cba85,Nantes,France,47.2186371,-1.5541362,07222,Nantes,6.7,True
+4ebafc38-97b9-485a-842f-df2e3fc08ab4,Victoria,Seychelles,-4.6232085,55.452359,63980,Seychelles International Airport,8.6,True
+8ec82bed-8ce6-43b4-8318-4df1c2b36399,Ljubljana,Slovenia,46.0500268,14.5069289,14015,Ljubljana / Bezigrad,2.0,True
+702003ed-543f-4431-acea-79b044373c31,Chengdu,China,30.6598628,104.0633717,56294,Chengdu,4.5,True
+7b317d9c-9f46-43cc-a3db-5a5072021732,Menorca,Spain,39.949257200000005,4.0499641751186415,08314,Menorca / Mahon,18.1,True
+510ac85b-7867-4b58-bc21-130b533ae441,Stone Town,Tanzania,-6.16265285,39.18965515249984,63870,Zanzibar / Kisauni,6.7,True
+3618d1dc-af2a-4646-94d2-5bc387158dbe,Johannesburg,South Africa,-26.205,28.049722,68368,Johannesburg Airport,20.0,True
+b5c78cdb-4482-4686-9aa8-10d848aaf90d,Busan,South Korea,35.1799528,129.0752365,RKPP0,Busan / Pusan / Millak-tong,5.5,True
+f8cceb46-257d-4b51-b34a-4cba69ace227,Koh Lanta,Thailand,13.8212743,100.6306935,48456,Don Muang,11.1,True
+623961cc-5553-4afa-842e-4af31b2a305c,Mumbai,India,19.054999,72.8692035,43003,Bombay / Santacruz,7.2,True
+37247be1-606e-4142-a129-bf5d3efbd197,Istanbul,Turkey,41.006381,28.9758715,17062,Istanbul / Goztepe,10.0,True
+72a44cc1-8aff-4424-95a0-81afd9aa6db1,Seville,Spain,37.3886303,-5.9953403,08391,Sevilla / San Pablo,9.0,True
+e90eff18-779e-4ad9-8f75-944a034c0600,Bangkok,Thailand,13.7524938,100.4935089,48455,Bangkok,8.2,True
+5eb2414d-ccc4-4665-b86a-f463c43a9c1b,Belfast,United Kingdom,54.596391,-5.9301829,03924,Belfast / Harbour,3.0,True
+d9f5aa87-6ce6-4675-b55c-e64635035d90,Odessa,Ukraine,46.4843023,30.7322878,33837,Odesa,6.3,True
+2ad8ee24-69aa-4e79-8b48-b459779c5987,Zanzibar Town,Tanzania,-6.15956165,39.2009686,63870,Zanzibar / Kisauni,6.6,True
+3b81e08f-9410-4898-9781-432030bad762,Antananarivo,Madagascar,-18.9100122,47.5255809,67085,Ambohimanarina,5.5,True
+f64d6a04-bf5b-49e9-860f-665d6e7d6ada,Krabi,Thailand,8.0634637,98.9162345,48564,Phuket,60.3,True
+d76e7f44-80ab-4a92-918c-80c918d1ae88,Lomé,Togo,6.130419,1.215829,65387,Lome,5.5,True
+184fc244-2725-4a56-894d-bbb80ef207e7,Port of Spain,Trinidad and Tobago,10.6572678,-61.5180173,78970,"Piarco International Airport, Trinidad",18.9,True
+aeb41503-ee2c-4678-aa67-33b816e31f68,Muscat,Oman,23.5882019,58.3829448,41256,"Seeb, International Airport",10.2,True
+671ba175-2610-4435-a449-61f29c414d68,Kyiv,Ukraine,50.4500336,30.5241361,33345,Kyiv,6.3,True
+128e077c-0b2e-43dc-a395-59dcb2fdabe7,Galle,Sri Lanka,6.0328139,80.214955,43497,Hambantota,102.0,True
+3abbee3b-52a2-45cc-b745-9720f49fd72a,Gdansk,Poland,54.42880315,18.79832701217957,12155,Gdansk-Swibno,13.8,True
+fe273668-236b-47ac-a87d-f02f36cd6181,Miami,United States,25.7741728,-80.19362,72202,Miami International Airport,12.4,True
+c6da2d98-abce-490d-8f70-5eea8253bf62,Svalbard,Norway,78.7198519,20.3493328,01008,Svalbard Lufthavn,120.3,True
+1a9464a8-353a-4572-aac3-297de01aa6da,Lapland,Finland,67.69291045,26.728214183162983,02836,Sodankyla,36.4,True
+4959b5b0-bc55-450f-a2c5-9076efac17a7,Tunis,Tunisia,36.8002068,10.1857757,60715,Tunis-Carthage,5.6,True
+9bb1538a-f6b4-450f-812f-20d1ebc2c6eb,San Francisco,United States,37.7792588,-122.4193286,72493,Metro Oakland International  Airport,17.8,True
+0e639efe-ac01-44b3-8716-2da67148d47c,Boston,United States,42.3554334,-71.060511,72509,Boston Logan International,3.8,True
+3b9ab1a4-a090-45f5-b101-a73f33a67a6c,Rotorua,New Zealand,-38.1381493,176.252922,93186,Tauranga Aerodrome Aws,52.6,True
+f52d85c4-fee6-4b7b-a181-fa7b0c8adaa0,El Chaltén,Argentina,-49.3319564,-72.8860438,87904,El Calafate Aero / Charles Fuhr,120.0,True
+4387a20c-e5eb-437f-9afc-23c940594043,Christiansted,U.S. Virgin Islands,17.7439481,-64.7079823,78547,"Christiansted, Henry E. Rohlsen Airport",10.9,True
+558816ef-9f17-4b93-a221-8aac47d03f00,Houston,United States,29.7589382,-95.3676974,72244,Houston / Olcott,26.3,True
+968021b5-7a8a-4e1e-bd31-574dd60a9975,San Diego,United States,32.7174202,-117.162772,72290,San Diego International Airport,2.6,True
+59d1b605-e2ed-4069-ab3b-b279346d1582,Ladakh,India,34.0242098,77.2036739,42027,Srinagar,218.5,False
+c1df028c-84c0-404a-a0c0-4f65e1b25357,Chefchaouen,Morocco,35.1700832,-5.2766582971063976,60318,Tetuan / Sania Ramel,46.2,True
+b53ea9ad-2c8b-4467-9764-1edb3b922ea4,Lviv,Ukraine,49.841952,24.0315921,33393,L'Viv,6.5,True
+54425ba9-ac85-490b-8064-4260eb382f2c,Nashville,United States,36.1622767,-86.7742984,72327,Nashville Airport,9.6,True
+af0c0c0e-6e3a-4157-8219-cdbd7fb23a81,Cleveland,United States,41.4996574,-81.6936772,KBKL0,Brookville / Old Chinatown,2.2,True
+b4a73043-c9d4-40b3-83df-1ead4d144b4c,Ronda,Spain,36.7421339,-5.1665916,08397,Moron De La Frontera,60.5,True
+577b9315-b7a1-489f-9f37-c705858b1162,London,United Kingdom,51.4893335,-0.1440550845276872,EGLC0,London / Abbey Wood,18.1,True
+a658f5c4-f1b4-4592-9bcd-823956973b8d,Rochester,United States,43.157285,-77.615214,72529,Greater Rochester International,7.1,True
+7880793a-92c4-4f87-a64a-f238fe4ef46e,Namibia,Namibia,-23.2335499,17.3231107,68110,Windhoek,77.6,True
+d521e276-3af5-4538-b17b-a1c8836d15b7,Memphis,United States,35.1460249,-90.0517638,72334,Memphis International Airport,14.0,True
+bee0bdaf-43b3-4d6e-80a3-eebf8cccb1cc,Ashgabat,Turkmenistan,37.9404648,58.3823487,38880,Ashgabat Keshi,5.2,True
+456e0998-8b34-4b5a-8898-fdd801f472a4,Tulum,Mexico,20.429647,-87.6529306,76647,"Valladolid, Yuc.",65.9,True
+a7573be8-bfc0-479c-9baa-7d824d1f9315,Honolulu,United States,21.304547,-157.855676,91182,Honolulu International Airport,10.3,True
+232e9cad-e761-42b2-ad5d-eac5c63500ff,Tashkent,Uzbekistan,41.3123363,69.2787079,38457,Tashkent,5.2,True
+6c7cf28b-e9b3-4620-985e-e51fb626aa64,Yangshuo,China,24.8630286,110.4871831,57957,Guilin,55.6,True
+cdc43353-203d-43ea-91ec-ccdff3e15160,Kuala Lumpur,Malaysia,3.1526589,101.7022205,48647,Sepang/KL International Airport,46.6,True
+2a2808ca-2382-4d3e-b28b-af9837c5a3f7,Cornwall,United Kingdom,50.4433489,-4.62465658489158,EGHQ0,Newquay Cornwall / Saint Mawgan,26.3,True
+6ee0fe94-2e9b-46ef-8bfc-5e218132332b,Dhaka,Bangladesh,23.7643863,90.3890144,41923,Dhaka,0.6,True
+df941b8b-5907-43b3-bd73-505845313873,Seattle,United States,47.6038321,-122.330062,KBFI0,Seattle / South Park,8.5,True
+48a8a9bd-7834-4db5-931e-151691e32ada,Bishkek,Kyrgyzstan,42.8777895,74.6066926,38353,Bishkek,6.7,True
+e0fba8c3-0e00-421a-8a31-c5001184dc97,Siem Reap,Cambodia,13.3617562,103.8590321,48966,Siemreap,1.1,True
+066b90ea-034a-48e3-9011-d2095c02efaa,Valdivia,Chile,-39.8141262,-73.2459859,85766,Valdivia,26.0,True
+3f3f5613-56d6-464b-a1de-437c2246292b,Salta,Argentina,-25.1076701,-64.3494964,87046,Jujuy Aerodrome,109.4,True
+92098031-bc52-4fac-b1df-2dfe76a8de6c,Split,Croatia,43.5116383,16.4399659,14445,Split / Marjan,0.8,True
+a49ee9f6-6273-4716-9985-1ebffd5c328c,Galápagos Islands,Ecuador,-0.62881505,-90.3638752022324,84008,San Cristobal Galapagos,90.1,True
+ae00c442-bbff-44db-9385-f8af3eda88b4,Florence,Italy,43.7697955,11.2556404,16170,Firenze / Peretola,5.6,True
+30c3bd69-5bec-4c0b-b009-bd322b13d554,Philadelphia,United States,39.9527237,-75.1635262,72408,Philadelphia International Airport,11.3,True
+04624f1d-9d64-4b83-a228-9914ef03c43e,Bordeaux,France,44.841225,-0.5800364,07510,Bordeaux / Merignac,9.5,True
+4b7bab82-52b8-4827-a591-750c48a47f39,Strasbourg,France,48.584614,7.7507127,07190,Strasbourg,9.5,True
+5b04742c-8938-413a-9050-370d3bc3115b,Palau,Palau,5.3783537,132.9102573,91408,"Babelthuap Island, Babelthuap/Koror Airport",284.7,False
+2302c9dd-263d-434c-8adf-cab28e3ba21d,St. George's,Grenada,12.0535331,-61.751805,78970,"Piarco International Airport, Trinidad",165.7,False
+0db57fc8-4359-415e-b18c-9b9da6d98e3d,Debrecen,Hungary,47.531399,21.6259782,12882,Debrecen,5.7,True
+56bbfddd-b9ea-4b44-a2bc-61b45baba7d7,Jaipur,India,26.9154576,75.8189817,42348,Jaipur / Sanganer,11.1,True
+1d7edb41-df70-4877-ac88-c1baaa72b923,Crete,Greece,35.3084952,24.46334231842296,16746,Souda Airport,36.9,True
+dbac5f44-f433-4f28-b05c-e9b193b346c0,Baltimore,United States,39.2908816,-76.610759,KDMH0,Baltimore,1.0,True
+c9154e0a-44ac-4562-aa0e-3081d51e1730,Madang,Papua New Guinea,-5.0,145.5,92010,Goroka / Megusayafa,119.3,True
+35de48dc-19c9-4e54-b788-da248d0e45d4,Taormina,Italy,37.8512218,15.2830191,16422,Reggio Calabria,40.1,True
+66355823-318b-4699-8244-a884d90e3e52,Takayama,Japan,36.1396246,137.2510322,47617,Takayama,1.2,True
+e8ca28df-95b8-4dd9-9190-28b80725ea25,Phoenix,United States,33.4484367,-112.074141,72278,Phoenix Sky Harbor Airport,2.8,True
+28e1fcbb-ce3c-418e-bb2d-421e3be81b2f,Blantyre,Malawi,-15.7862543,35.0035694,67693,Chileka,12.1,True
+ecaa1ebe-5e59-464c-8fae-42abbddcc734,Caracas,Venezuela,10.5060934,-66.9146008,80416,Caracas / La Carlota,3.5,True
+c62183f8-3057-4af8-9d51-1cba9559f61b,Da Lat,Vietnam,11.9373899,108.4286786,48877,Nha Trang,90.8,True
+eb3c14bc-9e8d-47f1-ba13-95e308ff7e11,New York City,United States,40.7127281,-74.0060152,KJRB0,New York / Wall Street,1.3,True
+180cca4b-7d0f-41a2-99a1-27c58d512572,Sapa,Vietnam,22.3359246,103.8426749,48806,Son La,111.6,True
+4265c1eb-e4f6-4b71-8442-56ad4483a5e4,Guadalajara,Mexico,20.6720375,-103.338396,76612,"Guadalajara, Jal.",4.7,True
+6c222aca-bad0-4114-a0f8-d271510a86a0,Anchorage,United States,61.2163129,-149.894852,PALH0,Anchorage / Turnagain Heights,5.8,True
+196e96f8-6055-4123-beaa-957b027ee1f9,Bhutan,Bhutan,27.549511,90.5119273,42423,Jorhat / Lengrabhita,168.4,False
+d4345f6e-b465-4dc0-abfe-f230b87aefb7,Samarkand,Uzbekistan,39.6550017,66.9756954,38696,Samarkand,10.1,True
+a33298f1-58d1-403d-984e-f7744a8e1746,Wellington,New Zealand,-41.2887953,174.7772114,93436,Wellington Airport,5.3,True
+316ef402-4768-456e-98b3-87fad9b0a5c1,Lahore,Pakistan,31.5656822,74.3141829,41640,Lahore City,2.5,True
+36d2ef8d-984f-44db-8343-7b70c26e8bf1,San Pedro de Atacama,Chile,-22.910832,-68.2001376,85432,Calama,85.1,True
+12bac5cc-d5e5-4418-aec5-2805cfe04257,Madeira,Portugal,32.751750099999995,-16.98174865726062,08522,Funchal,15.2,True
+cb72a09a-88af-4d3b-a950-b353a445b54c,Gjirokastër,Albania,40.0770871,20.1393359,16641,Kerkyra Airport,54.6,True
+eb8d23c9-8122-4bb2-8325-e37036397a1c,Brisbane,Australia,-27.4689682,153.0234991,94576,Brisbane,4.2,True
+5a296eaa-b786-420f-8a2d-08db36260144,Cesky Krumlov,Czech Republic,48.8106526,14.3150586,D4755,Sonnen,44.9,True
+ec2e76e8-1944-4282-962d-276573d0ceef,Basseterre,Saint Kitts and Nevis,17.2960919,-62.722301,78873,Roosevelt Airport Saint Eustatius,34.6,True
+a5064014-fa4f-4864-b491-a65fa2d68229,Honiara,Solomon Islands,-9.4310769,159.9552552,91517,Honiara,2.0,True
+7071cc05-1440-4931-88dc-3fa5a4cc15d2,Siena,Italy,43.16720595,11.467561040475552,16172,Arezzo,45.5,True
+4c88db7e-4c60-4395-9464-91ea959e2d13,La Palma,Spain,28.6551163,-17.857268565579673,60005,La Palma / Aeropuerto,11.3,True
+58563b14-ffba-4104-88ce-0ba065f5d6ed,Ghent,Belgium,51.0538286,3.7250121,06434,Melle / Kalverhaag,10.1,True
+6b93d8e6-ab6a-4a5e-91f8-f42198c06d01,Sao Paulo,Brazil,-23.5506507,-46.6333824,83779,Marte Civ / Mil,3.8,True
+84684cae-4fbc-4ea4-9172-5f9d802ba843,Monteverde,Costa Rica,10.29115145,-84.81364393886889,78762,Juan Santamaria,72.9,True
+16539924-85a8-441a-8ebd-9c56d6720a35,Nukuʻalofa,Tonga,-21.1343401,-175.201808,91792,Fua'Amotu,12.2,True
+074c4c99-13f9-44ea-9ad3-bf573506a04c,Birmingham,United Kingdom,52.4796992,-1.9026911,03534,Birmingham / Airport,11.9,True
+63290557-b50c-409a-91ef-479598d31de3,Tuscany,Italy,43.4586541,11.1389204,16170,Firenze / Peretola,38.3,True
+68ec474b-b008-493b-933c-13e51af9ec83,Charlottetown,Canada,46.234953,-63.132935,71706,Charlottetown Airport,6.2,True
+a3c96500-b77a-4133-bc7d-cca24a7e5ae6,St. Louis,United States,38.6280278,-90.1910154,KCPS0,Cahokia / Maplewood Park,7.1,True
+b150cb57-9168-4a88-ad5a-1ceb37ebfa72,Las Vegas,United States,36.1672719,-115.1483538,KVGT0,Las Vegas / Eastland Heights,6.4,True
+59e6664b-2503-4e62-87a4-9fbf47c24a9b,Detroit,United States,42.3315509,-83.0466403,71538,Windsor Airport,9.1,True
+dbf5cdef-ff5d-4a67-8dba-8c220669ea4f,Suzhou,China,31.311123,120.6212881,58367,Shanghai / Hongqiao,78.9,True
+497a30a0-cdd6-4336-99f3-481f08fcce76,Sardinia,Italy,40.0912813,9.0305773,16550,Capo Bellavista,61.0,True
+19e2eecc-8394-482b-8469-d4ca8869797d,Port Vila,Vanuatu,-17.7414972,168.3150163,91557,Bauerfield Efate,4.9,True
+00d7a74c-188a-4cea-aa66-f69397766a1e,Sibiu,Romania,45.7973912,24.1519202,15260,Sibiu,0.3,True
+44270077-ff2f-4123-96b9-7158aaff58a9,Luxor,Egypt,25.702096,32.647186,62405,Luxor,6.6,True
+604b2249-da94-48ac-aba9-5297e6c7f5c7,Providenciales,Turks and Caicos,21.81444705,-72.15098494353239,78451,Monte Cristi,221.0,False
+7034c2a1-23a7-4da3-97e6-f6b9a7a886dd,Siwa Oasis,Egypt,29.215497900000003,25.468972583438237,62417,Siwa,14.9,True
+eb5b5644-d743-4bae-861a-99b1f631f095,Mombasa,Kenya,-4.05052,39.667169,63820,Mombasa,5.9,True
+749fb1fb-78a2-43cc-a9e6-0594d8be5519,Dushanbe,Tajikistan,38.5762709,68.7863573,38836,Dushanbe,2.9,True
+e49419c6-0022-4c14-b3be-8bde13a47ab2,Cuzco,Peru,-13.51695415,-71.97927120704406,84686,Cuzco,3.7,True
+b893d102-fb92-4032-9117-5826ef4cf1aa,Nara,Japan,34.2963089,135.8816819,47663,Owase,38.8,True
+5c81761c-2753-4c1c-b724-f0a7f923540d,Buenos Aires,Argentina,-34.6083696,-58.4440583,87585,Buenos Aires Observatorio,4.5,True
+252e5f0f-bc45-4a80-9c12-c0262cf2b733,Córdoba,Argentina,-31.4166867,-64.1834193,87345,Cordoba Observatori / San Vicente,1.9,True
+8836b237-a5c2-49ac-ab48-2b705d4c56f6,Sydney,Australia,-33.8698439,151.2082848,94767,Sydney Airport,3.4,True
+0517a59d-8d92-4687-9aaa-323ba211f28e,Hualien,Taiwan,23.9913421,121.6197276,59362,Hualian,2.8,True
+784d64bc-ad12-4648-8094-07151548001d,Vienna,Austria,48.2083537,16.3725042,11035,Wien / Hohe Warte,4.7,True
+472a370a-f213-4bdd-bef7-e00aa2eb2ca4,Baku,Azerbaijan,40.3755885,49.8328009,37864,Baku / Bine Airport,21.5,True
+8fbef9b4-80b6-4ef5-9196-d92d4fb81e25,Minsk,Belarus,53.9024716,27.5618225,26850,Minsk,5.8,True
+99337dc9-9aff-4695-8c40-f5737939bedd,Santa Cruz,Bolivia,-17.333333,-61.5,85247,San Jose De Chiquitos,96.4,True
+3dcec783-933e-4928-b50a-65b7050f50ff,Mostar,Bosnia and Herzegovina,43.3435855,17.8076584,13348,Mostar,0.9,True
+2fdfc5be-fe93-4c81-8a14-a0f17ca22b60,Salvador da Bahia,Brazil,-13.2432762,-43.3742847,83288,Bom Jesus Da Lapa,5.3,True
+7953a021-a4c4-4fbf-b5a8-92467f8280ed,Bujumbura,Burundi,-3.3638125,29.3675028,64387,Kigali,176.2,False
+9226cd83-fc8a-417b-99c0-f46db4cf4d5d,Yaoundé,Cameroon,3.8689867,11.5213344,64510,Bitam,198.6,False
+b83e6115-b517-4e85-b1d9-fecf35d3993c,Galway,Ireland,53.2744122,-9.0490601,03962,Shannon Airport,64.5,True
+d1fdface-d3c3-45fe-b7ec-ecf1aebec736,Calgary,Canada,51.0456064,-114.057541,DHKZ6,Calgary Int'l CS,8.2,True
+c2ee230d-f1b2-4831-bf1a-36469bc6eb98,Halifax,Canada,44.648618,-63.5859487,71328,Halifax Dockyard,1.4,True
+9b29ecd2-a840-4fc2-b55e-85a2a99d67b0,Sal,Cape Verde,16.720455649999998,-22.93867612702632,08594,Sal,1.9,True
+0949dd9a-c23e-45c7-b1cf-bdd110a760c8,Bath,United Kingdom,51.3813864,-2.3596963,EGTG0,Bristol / Filton,21.6,True
+4f691336-e290-4fb8-8f6f-041744450398,Pristina,Kosovo,42.6638771,21.1640849,13489,Vranje,62.9,True
+222fef61-1cb1-492a-af39-3244dd5eaf73,Belgrade,Serbia,44.8178131,20.4568974,13274,Beograd,2.1,True
+43bf31e6-e12e-4752-abdf-87472616ead1,Dallas,United States,32.7762719,-96.7968559,72258,Dallas / Oldham,9.4,True
+8ffa36b1-c3eb-4d2d-bc8b-8768f6ecfff1,Guilin,China,25.2779894,110.2910622,57957,Guilin,6.2,True
+f69c75d8-329c-4769-bda1-ea15a27dcc33,Hallstatt,Austria,47.5621698,13.6486697,11357,Saint Wolfgang,24.2,True
+c3963b0a-b8da-4320-aa9d-bead15d4b37a,Nicosia,Cyprus,35.1746503,33.3638783,17609,Larnaca Airport,40.6,True
+33713397-dcba-460c-bca2-651bdd80fe0f,San José,Costa Rica,9.9325427,-84.0795782,78762,Juan Santamaria,16.8,True
+9f3ce859-f274-4359-a24d-e16bc30c2b1c,Havana,Cuba,23.135305,-82.3589631,78325,"Casa Blanca, La Habana",3.6,True
+7e649d6c-6926-4335-beca-e543737cd861,Roseau,Dominica,15.4238539,-61.34165132887498,78922,Caravelle,88.1,True
+7ca9e565-db06-4228-ac03-c57d8d757227,Carcassonne,France,43.2130358,2.3491069,07635,Carcassonne,2.7,True
+0fcdac6c-fddc-43a4-93c5-dd03a6cd75dc,Lagos,Portugal,37.1027964,-8.6728689,08554,Faro / Aeroporto,63.4,True
+d2351990-8009-44cd-9fdb-e79f1fd913f4,Alexandria,Egypt,31.1991806,29.8951716,62318,Alexandria / Nouzha,5.2,True
+5f55fdd8-3af4-485a-8a31-5974963a257f,Tallinn,Estonia,59.4372155,24.7453688,EETN0,Tallin / Tallinn / Lennart Meri / Mõigu,5.6,True
+7e2ebc2d-7b8b-4071-b2f7-11476b6d44b7,Paris,France,48.8588897,2.3200410217200766,07156,Paris-Montsouris,4.8,True
+d45e5eea-27c6-4eda-b78a-50c21079b270,Puglia,Italy,40.9842539,16.6210027,16270,Bari / Palese Macchie,21.4,True
+5f4cc5c5-4804-4a2c-8ddc-c5166d5b9237,Queenstown,New Zealand,-45.0321923,168.661,93831,Queenstown Aerodrome,5.9,True
+735e5584-4804-4d92-8fa6-98b14964188c,Biarritz,France,43.4832523,-1.5592776,07602,Biarritz,2.8,True
+9e075378-f479-48c4-ac0c-43a44f822866,Libreville,Gabon,0.4086518,9.4418849,64500,Libreville,5.4,True
+b636143f-615e-4232-a3a6-f11bc6ee93df,Sintra,Portugal,38.79846,-9.3881,LPCS0,Cascais / Tires,8.7,True
+08a0957f-5a4f-40f9-aa68-c26f20c88f70,Hvar,Croatia,43.17389195,16.55652349457852,14445,Split / Marjan,39.4,True
+a87511bd-77f4-4afc-977e-730d34c1c7bd,Rostock,Germany,54.0886707,12.1400211,10170,Rostock / Warnemünde,11.2,True
+643c3ffc-f74a-444b-b836-da588781da27,Zakynthos,Greece,37.78913845,20.790089567090195,16719,Zakinthos / Agrilia,9.3,True
+38fa5147-236e-4462-b3b1-97b35caaf154,Reykjavík,Iceland,64.145981,-21.9422367,04030,Reykjavik,2.5,True
+6dc1c044-a79c-4b5b-9a9b-dbb0f95fefae,Jodhpur,India,26.2967719,73.0351433,42339,Jodhpur,1.9,True
+4c55af25-bd6c-4677-badd-6b53ec2f758d,Bandung,Indonesia,-6.9215529,107.6110212,96791,Jatiwangi,74.9,True
+98fa6e27-430b-4d3b-b347-02e8c53c7cf7,Naples,Italy,40.8358846,14.2487679,16289,Napoli / Capodichino,4.6,True
+df9fa1bf-f634-4f67-ba01-b4324b3b7768,Yamoussoukro,Ivory Coast,6.8200066,-5.2776034,65563,Yamoussoukro,12.0,True
+4cfcb5ec-303d-49ec-978a-da752ddd094f,Sapporo,Japan,43.061936,141.3542924,47412,Sapporo,2.2,True
+7b34f40a-0ea8-48d7-b930-c7de11613b93,Almaty,Kazakhstan,43.2363924,76.9457275,36870,Almaty,1.1,True
+41fa1295-aef3-4e9d-9d04-5a43f6cd1741,Luxembourg City,Luxembourg,49.6112768,6.129799,06590,Luxembourg / Luxembourg,6.3,True
+80fd9234-ad35-4e41-af83-ce4f201894d5,San Cristóbal de las Casas,Mexico,16.735377,-92.63873,76845,"Sn. Cristobal Las Casas, Chis.",0.6,True
+b7506ee6-e9ca-41fe-b282-ebf79c9782bf,Riga,Latvia,56.9493977,24.1051846,26422,Riga,3.9,True
+05b02046-7947-45a4-a9f6-39f043575a81,Portland,United States,45.5202471,-122.674194,72698,Portland International  Airport,9.1,True
+2ee4ab0c-44a7-45bd-8463-0b4813e62c3a,Ulaanbaatar,Mongolia,47.9184676,106.9177016,44292,Ulaan-Baator,3.8,True
+08f1b340-be30-43d0-a0dd-199157dffb00,Essaouira,Morocco,31.5118281,-9.7620903,60220,Essaouira,2.1,True
+6d6e150b-925c-49b0-bfd6-199070922341,Pokhara,Nepal,28.209538,83.991402,44454,Kathmandu Airport,146.5,True
+d0065fb6-78a4-4982-a4d9-bcb30d2fd66b,Eindhoven,Netherlands,51.4392648,5.478633,06370,Eindhoven,4.5,True
+16232df9-2dcc-4a1a-a3a5-9aab5bf5dba5,Port Moresby,Papua New Guinea,-9.4743301,147.1599504,92047,Nadzab,327.0,False
+5e5eb018-1df0-459c-85d4-46a45c1dcbe9,Cebu,Philippines,10.47,123.83,98646,Mactan,24.1,True
+2f634211-0161-41dc-b871-3d405b1b3975,Lisbon,Portugal,38.7077507,-9.1365919,08535,Lisboa / Geof,1.5,True
+a8bec1b5-1b2e-4f8a-9f4e-ed1ec350c1f3,Brazzaville,Republic of the Congo,-4.2694407,15.2712256,64450,Brazzaville / Maya-Maya,3.2,True
+b937f178-569d-4efb-b97c-1a3dc4a4e42c,Kigali,Rwanda,-1.8859597,30.1296751,64387,Kigali,9.1,True
+d638194d-3ad6-42fc-a665-1f858787a374,Apia,Samoa,-13.8345235,-171.7630955,91762,Apia / Upolu Island,4.4,True
+f7812d83-a0ca-428a-9b98-a6ee705b3925,Gorée Island,Senegal,14.66720465,-17.398356301764487,61641,Dakar / Yoff,13.2,True
+8c999bb4-7456-4226-9124-515a84f3cc7d,Durban,South Africa,-29.861825,31.009909,68588,"Durban, Durban International Airport",13.0,True
+db933be3-64bc-4471-b1e5-ad29a27b56c6,Bled,Slovenia,46.3684202,14.1100595,14010,Lesce,5.6,True
+abb3afcd-3460-43f0-a209-0fdef66264c4,Bilbao,Spain,43.2630018,-2.9350039,08025,Bilbao / Sondica,4.1,True
+82cd6d56-a268-4de2-9339-9471cfd32343,Asturias,Spain,43.3133868,-5.94192,08015,Oviedo,7.3,True
+31f5b626-c19c-4b17-b740-a2316960fad1,Zermatt,Switzerland,46.0212076,7.749254,16052,Pian Rosa,10.5,True
+3eb00e2f-97e0-445b-a337-2c2852056104,Chiang Mai,Thailand,18.7882778,98.9858802,48327,Chiang Mai,0.6,True
+81a386eb-0e43-463f-9c5b-c7c116b9daad,Kairouan,Tunisia,35.6710101,10.10062,60735,Kairouan,0.5,True
+df9dfdee-2ccd-45c4-a2a8-f9fe84c1748e,Kampala,Uganda,0.3177137,32.5813539,63661,Kitale,279.9,False
+e67d1cf4-1acd-410c-9173-6857f6c89332,Minneapolis,United States,44.9772995,-93.2654692,KMIC0,Minneapolis / Brooklyn Center,11.7,True
+6ce77f2d-9856-497c-a6d8-7d7c2363e489,Denver,United States,39.7392364,-104.984862,72469,"Denver / Stapleton International, Co.",11.2,True
+fd625374-2800-49ca-9f65-ea3eabca88ab,Glasgow,United Kingdom,55.861155,-4.2501687,03140,Glasgow Airport,11.4,True
+5cccd9f1-46c1-461c-928b-207a70521e74,Ushuaia,Argentina,-54.807306,-68.3084133,87938,Ushuaia Aerodrome,1.0,True
+c7cd6c83-42a4-48b2-ad40-7b0c61dcf992,Tucson,United States,32.2228765,-110.974847,72274,Tucson International Airport,10.2,True
+99ef42e6-1bce-46a5-a6cd-0dc8d924b901,Pittsburgh,United States,40.4416941,-79.9900861,72520,Greater Pittsburgh International,8.0,True
+18db3d45-0c86-4da9-b5b4-9fbbba0bf443,Adelaide,Australia,-34.9281805,138.5999312,94675,Adelaide (West Terrace /  ngayirdapira),3.1,True
+21b7a81d-f0a3-4260-be02-f6c82cc74254,Manama,Bahrain,26.2235041,50.5822436,41150,Bahrain International Airport,8.3,True
+88f49e69-1210-4b97-be1e-b906ca0ebcec,La Paz,Bolivia,-16.4955455,-68.1336229,85201,La Paz / Alto,5.8,True
+edb9bd75-975a-438a-8d19-7b506bae3003,Montevideo,Uruguay,-34.9058916,-56.1913095,86580,Carrasco,19.2,True
+1ca8e2d5-d8af-4855-a61c-93d3f4557f10,Mendoza,Argentina,-34.78709305,-68.43818677312292,87509,San Rafael Aerodrome,22.9,True
+20fa6443-16d9-43a4-8cda-d6c9cc93f5e0,Innsbruck,Austria,47.2654296,11.3927685,11121,Innsbruck,3.1,True
+031fc396-76f4-4789-ad26-26a0ca29b267,Washington DC,United States,38.8950368,-77.0365427,72405,Washington National Airport,5.0,True
+fb56c304-dd9e-433a-8a3b-fda3cdf73cf4,Brussels,Belgium,50.8465573,4.351697,06447,Uccle,5.2,True
+5c5a1424-5c18-4a8a-b4ec-b8084bfc1003,Ottawa,Canada,45.4208777,-75.6901106,71063,Ottawa CDA RCS,5.1,True
+9c6dae1f-2059-4196-804f-fcd440fb19d0,Brno,Czech Republic,49.1922443,16.6113382,11723,Brno / Turany,8.0,True
+a72016d1-6e5a-45e9-9d47-b0d1dcff8e69,Tartu,Estonia,58.3801207,26.72245,26242,Tartu,8.9,True
+920da6cf-c573-4a7d-94f8-b6f93bccb344,Praia,Cape Verde,14.9162811,-23.5095095,08589,Praia,2.0,True
+d218703a-93de-47e5-b591-a6a45b3187cd,Harbin,China,45.7593633,126.6276177,50953,Harbin,10.8,True
+51ab40b5-1e27-463a-a1fd-cf9f33a9263a,Moroni,Comoros,-11.6931255,43.2543044,67002,Hahaya International Airport,17.8,True
+acd5d99c-5303-4f22-b176-f67a87c7e59c,Prague,Czech Republic,50.0874654,14.4212535,11520,Praha-Libus,8.1,True
+29e3c666-7847-4ce2-a1ab-c4036a94b9db,Beijing,China,40.190632,116.412144,54511,Beijing,30.6,True
+e79d9e7b-6fc0-43de-a4fd-df7874e6f754,Lhasa,China,29.6542054,91.1173015,55591,Lhasa,2.1,True
+16b76b63-d83f-4e9c-86e1-b39fd024f8a9,Aswan,Egypt,24.091071,32.897306,62414,Asswan,18.0,True
+a3838612-edde-4229-91ba-f6483f24e7c5,Rijeka,Croatia,45.3267976,14.442208,13116,Rijeka / Omisalj,16.5,True
+766463db-8af1-4a9f-95f4-f2bb8a50db45,Cuenca,Ecuador,-2.8974072,-79.0041726,84226,Canar,39.4,True
+12aa2887-b59c-4f3d-bad6-7b57dac21879,Giza,Egypt,29.9870753,31.2118063,62378,Helwan,17.8,True
+1f834fe2-c60c-4806-8880-081a9f7c9b72,Saaremaa Island,Estonia,58.27381995,22.277105752545435,EEKE0,Kuressaare,14.4,True
+1f31c352-d854-47e4-a556-f0458c248320,Venice,Italy,45.4371908,12.3345898,16105,Venezia / Tessera,7.0,True
+4311c598-a756-4776-ab4a-aab47d5252b7,Rennes,France,48.1113387,-1.6800198,07130,Rennes,6.3,True
+7b87f72d-9e50-4e58-9053-cc2e71ff6511,Papeete,French Polynesia,-17.5373835,-149.5659964,91938,Tahiti-Faaa,5.6,True
+c4dbcb6c-a538-4ea4-8949-15abc60cfb20,Lyon,France,45.7578137,4.8320114,07480,Lyon / Bron,10.2,True
+91cac04b-ad02-4e41-bc20-ad0bbe5e65a0,Bora Bora,French Polynesia,-16.504346650000002,-151.73668863927236,91930,Bora-Bora,6.2,True
+14f66152-9e1f-49a6-af54-b5c594fb958f,Carcassone,France,43.2130358,2.3491069,07635,Carcassonne,2.7,True
+c2f88913-cb3d-480a-9468-539f31cda9f7,Osaka,Japan,34.6937569,135.5014539,47772,Osaka,1.8,True
+89a63e37-123a-4dfd-88d2-b7cb58c7b4e4,Banjul,Gambia,13.4410165,-16.56275092072591,61701,Banjul / Yundum,27.6,True
+bbbaa3f2-5a06-4e14-9626-0ec02a43b129,Hamburg,Germany,53.550341,10.000654,10147,Hamburg Airport,9.2,True
+8487babf-ddba-48fa-aaa9-d8bbf60b7d73,Vilnius,Lithuania,54.6870458,25.2829111,26730,Vilnius,13.2,True
+6cad25d4-a467-4942-9b04-0ace1de123e4,San Cristobal,Venezuela,7.7756663,-72.2214154,80447,San Antonio Del Tachira,26.5,True
+3c17a4a0-29e4-4aba-aaba-8f6e831349f1,Lübeck,Germany,53.866444,10.684738,10156,Luebeck-Blankensee,5.6,True
+c929605b-29fe-440d-9b79-c0a899e95238,Antigua,Guatemala,14.5567814,-90.7337346,78641,Guatemala Aeropuertola Aurora,23.5,True
+fd6dcc88-7ef3-4990-a6e2-ae24b08badab,Akureyri,Iceland,65.68390355,-18.11217559813441,04063,Akureyri,1.3,True
+279f4b89-4f47-45b5-bd14-a791517bdf37,Varanasi,India,25.3356491,83.0076292,42483,Varanasi,4.1,True
+37d8bd6e-fad0-4304-93bd-26975ac8944f,Ajaccio,France,41.9263991,8.7376029,07761,Ajaccio,5.3,True
+077a909f-9984-4cef-8872-07c697cab0fb,Tanna Island,Vanuatu,-19.48577845,169.33450144830016,91565,Burtonfield Tanna,10.3,True
+b3d93e9e-ad99-4429-b281-c0750bf6e2c8,Ho Chi Minh City,Vietnam,10.7763897,106.7011391,48900,Ho Chi Minh,5.9,True
+bebdecac-357c-4178-a4d3-b29d1c286f0d,York,United Kingdom,53.96565785,-1.0743052444639218,03266,Linton-On-Ouse,14.8,True
+49075331-5017-45a7-8645-0c668b2fe1bb,Delhi,India,28.6273928,77.1716954,42182,New Delhi / Safdarjung,5.6,True
+19ad6eea-d5b7-4468-8ed3-79e4c795bb7a,Matera,Italy,40.4476419,16.47357384028852,16314,Matera / Martella,29.6,True
+3cbd302a-6109-43c9-a113-112542bef4ae,Hiroshima,Japan,34.3917241,132.4517589,47765,Hiroshima,1.7,True
+0f7e00d1-189f-4504-a23d-71dc70d98ae4,Vientiane,Laos,17.9640988,102.6133707,48940,Vientiane,5.2,True
+25da92b8-f1f0-4a49-b8ee-45fbc0f1f17a,Edinburgh,United Kingdom,55.9533456,-3.1883749,03160,Edinburgh Airport,10.1,True
+7e080529-0ecf-4c7a-b6dd-c316c5cfdab7,Lusaka,Zambia,-15.4163395,28.2818414,67663,Kabwe,109.3,True
+6018cfaa-2009-46c1-9b4e-abc97eecad6b,Marrakesh,Morocco,31.6258257,-7.9891608,60230,Marrakech,4.3,True
+01db5747-b1a8-4398-851b-5f4be4f7e453,Palawan,Philippines,11.0798978,120.93734215474105,98637,Iloilo,182.9,False
+b5a1cb1c-42d2-4235-a907-6791f1177f34,Ohrid,North Macedonia,41.1170203,20.8017715,13578,Ohrid,0.2,True
+d61c9838-c92c-4619-aa92-5daf546b71df,Algarve,Portugal,37.24480855,-8.150756196275431,08554,Faro / Aeroporto,30.2,True
+cd74974b-0218-4e6a-b947-13d8ee80dbb7,Bucharest,Romania,44.4361414,26.1027202,15422,Bucharest / Filaret,2.7,True
+5de00cf4-d669-44be-936b-707e01d25311,Seychelles,Seychelles,-4.6574977,55.4540146,63980,Seychelles International Airport,7.0,True
+c17afe66-e784-4b36-96ff-da56a56ff78a,Zurich,Switzerland,47.3744489,8.5410422,06660,Zurich Town / Ville.,2.2,True
+5c470d58-5ad9-4aaa-903b-fa9a2bed3c68,Dubai,United Arab Emirates,25.07428235,55.18853865430702,OMDM0,Dubai / ‘?d al Bay??’,18.7,True
+89e1f300-6ffd-4c18-a700-c9815dcdad84,Zanzibar,Tanzania,-6.1664908,39.2074312,63870,Zanzibar / Kisauni,5.7,True
+60a84e59-6313-4576-a15a-b72c3e0dba67,Atlanta,United States,33.7489924,-84.3902644,KFTY0,Atlanta / Carroll Heights,12.6,True
+40167255-1cae-4156-8d8d-cde07255405e,Thimphu,Bhutan,27.4713546,89.6336729,42403,Cooch Behar,127.6,True
+0a7d0b01-4cdf-4968-81ea-ac4e5d5d2fa1,Los Angeles,United States,34.0536909,-118.242766,KCQT0,Los Angeles / Jefferson,5.6,True
+4ed326e5-e344-48c0-a1ff-b69d6fdb9b7f,Savannah,United States,32.0790074,-81.0921335,72207,Savannah Airport,6.9,True
+f7d86453-1908-48d0-9b86-63c6a6b7c2ae,Bukhara,Uzbekistan,39.7675529,64.4231326,UTSB0,Bukhara / Tsyplan,3.7,True
+8a01ffff-5a20-4ddb-af63-f82c9fa0e277,Montreal,Canada,45.5031824,-73.5698065,71612,Montreal McTavish,0.9,True
+dca139e8-a2d8-4edc-a494-bb831291452e,Hanoi,Vietnam,21.0283334,105.854041,48820,Ha Noi,5.8,True
+27867d01-7251-434e-a743-c50193f8dc86,Perth,Australia,-31.9558933,115.8605855,94608,Perth,7.2,True
+765ff37e-f3fa-48d4-9631-679279fd3045,Cardiff,United Kingdom,51.4816546,-3.1791934,03715,Cardiff-Wales Airport,14.9,True
+2af06632-f7aa-4f48-88ff-a7f90e8da41e,San Jose,United States,37.3361663,-121.890591,KSJC0,San Jose / Santa Clara Trailer Village,4.5,True
+c4d01836-2731-498c-afa0-164e08df33be,Orlando,United States,28.5421109,-81.3790304,KORL0,Orlando / Azalea Park,4.5,True
+2278b395-3809-4d23-b74d-2e6ebfdce2ed,Sighisoara,Romania,46.2202037,24.7934483,15189,Dumbraveni,17.5,True
+31c38956-bfd7-49a1-82f6-656ae066db1f,Vancouver,Canada,49.2608724,-123.113952,71201,Vancouver Harbour CS,4.4,True
+3f80a914-4217-4ee3-87a7-657e5480fea4,Keswick,United Kingdom,54.6009812,-3.1375822,03220,Carlisle,38.5,True
+43e082aa-865c-4847-a8f3-7ee4e77c05de,Bologna,Italy,44.4938203,11.3426327,16140,Bologna / Borgo Panigale,5.5,True
+794e7d71-b99b-415f-8b9c-790ec7773bd1,Isle of Skye,United Kingdom,57.36300795,-6.302173669619252,03022,Benbecula,64.8,True
+f01a2bac-182f-4a9a-bd44-d75f65b50bd7,Guimarães,Portugal,41.4417677,-8.2955712,08545,Porto / Pedras Rubras,39.8,True
+0c2f27fb-d5ed-4047-a16e-05fb872fe7b3,Macau,China,22.1757605,113.5514142,45011,Taipa,1.9,True
+a42b301e-5afe-417e-a81f-9f847e267f88,Salento,Colombia,4.6373012,-75.569799,80211,Armenia / El Eden,22.3,True
+9f779614-05dd-41e8-833b-8fa44cee9475,Zagreb,Croatia,45.8130967,15.9772795,14236,Zagreb / Gric,0.6,True
+f206b4f0-81db-4098-8142-a69892f9f14b,Quito,Ecuador,-0.2201641,-78.5123274,84088,Izobamba-Santa Catalina,16.8,True
+b411a358-6873-46d3-b693-174931a4a948,San Salvador,El Salvador,13.6989939,-89.1914249,78663,San Salvador / Ilopango,8.1,True
+9cca8483-23d3-4725-b369-ba831d2c16b3,Suva,Fiji,-18.1415884,178.4421662,91683,Nausori,16.6,True
+0eeb9c0f-6cae-4e46-ba5a-dba09017c4ec,Toulouse,France,43.6044622,1.4442469,07630,Toulouse / Blagnac,7.0,True
+9a4f8eec-e269-42bb-96bd-4c0e0a82df57,Frankfurt,Germany,50.1106444,8.6820917,D1424,Frankfurt  Westend,2.0,True
+3c3ca961-011a-4144-8dff-741dd64d363e,Accra,Ghana,5.5571096,-0.2012376,65472,Accra,6.1,True
+bfb367bf-51e6-4098-89b3-4868a8b7c834,Cayenne,French Guiana,4.9371544,-52.3258736,81405,Cayenne / Rochambeau,12.4,True
+90ca1550-325d-4036-ae5a-5a2d7518d12a,Launceston,Australia,-41.4340813,147.1373496,94969,Launceston,4.9,True
+7c9a3427-bce5-49c4-ace2-b19967022373,Valparaíso,Chile,-33.0458456,-71.6196749,85574,Pudahuel,86.4,True
+265ee9f4-2324-46bc-95e2-11a7b655e833,Colmar,France,48.0777517,7.3579641,LFGA0,Colmar / Houssen,3.6,True
+1e1b5cd7-966e-419c-a2d4-c9fe088a9289,Bratislava,Slovakia,48.1516988,17.1093063,11816,Bratislava Ivanka,8.6,True
+1d32dfff-864b-4298-8be7-1f9714936244,Hong Kong,Hong Kong,22.2793278,114.1628131,45004,King's Park,4.2,True
+f03bee1f-4a0c-48b7-9552-b0520359357d,Trinidad,Cuba,21.8052055,-79.9845797,MUSC0,Abel Santamaria / La Caridad,77.3,True
+2112510a-fb29-4ca0-82e1-682dc6073880,Plovdiv,Bulgaria,42.1418541,24.7499297,15625,Plovdiv,1.0,True
+27486037-4990-4ad3-89a3-0d7cf6d3e065,Maui,United States,20.8029568,-156.31068331602177,91198,Kula Expmt Stn / Waiakoa,4.7,True
+de902972-e11c-42e8-858a-a3bf3cca5af4,Khiva,Uzbekistan,41.3776893,60.3620006,38396,Urgench,27.1,True
+d827d6ed-6c6f-4ab0-b964-26a4defeedef,Belize City,Belize,17.5002768,-88.1988737,78583,Belize / Phillip Goldston Intl. Airport,11.3,True
+e570ec15-1d11-49e6-8a55-1243633a8668,Harare,Zimbabwe,-17.8567035,31.0601584,67775,Harare Kutsaga,10.2,True
+60ee6bbb-54f1-495d-b0ce-8f6c4a73f6ab,Ubud,Indonesia,-8.5068977,115.2622931,97230,Denpasar / Ngurah-Rai,29.0,True
+fae2433c-c914-436c-9b12-c733c2974ac8,Punta del Este,Uruguay,-34.9632342,-54.9439981,SULS0,Maldonado,17.8,True
+9a1ce654-b167-4225-b87a-49d78a91ca0b,Rapa Nui,Chile,-27.1259317,-109.3495887,85469,Isla De Pascua,7.2,True
+6ce8aa84-b119-4e84-aaec-fc4a2471cc9e,Cork,Ireland,51.8985136,-8.4726423,03955,Cork Airport,5.4,True
+b6b694b6-df6b-4aa8-be96-478108285fba,Batumi,Georgia,41.6509502,41.6360085,37484,Batumi,0.2,True
+d0a7fef1-2591-401c-adb2-50b1a432982f,Vladivostok,Russia,43.1150678,131.8855768,31960,Vladivostok,3.9,True
+d908e2d3-b5f2-47d7-9cfc-836e69d13fcb,Murmansk,Russia,68.970665,33.07497,22113,Murmansk,1.1,True
+5e7318b5-3cc9-462e-b9df-7c6f7bec1885,Moscow,Russia,55.625578,37.6063916,UUMO0,Ostafyevo / Yazovo,14.1,True
+4bea1fd4-279e-4e2b-a602-f408dbce9017,St Petersburg,Russia,59.9606739,30.1586551,26063,St. Peterburg,7.9,True
+e10d6c97-8c49-40ca-a97e-231b750532aa,Caye Caulker,Belize,17.7395148,-88.0336867,78583,Belize / Phillip Goldston Intl. Airport,36.4,True
+b4e893fc-27d3-47c4-be88-098db36c1cb7,Fort Lauderdale,United States,26.1223084,-80.1433786,74783,Fort Lauderdale,5.6,True
+0bd0743b-8e3c-49d4-8024-bd412f9732fa,Abu Dhabi,United Arab Emirates,24.4538352,54.3774014,41216,Abu Dhabi Bateen Airport,9.3,True
+88216c54-79d7-4a01-92ed-307521f5e34a,Casablanca,Morocco,33.5945144,-7.6200284,60155,Casablanca,5.3,True
+06251f82-31e2-46f5-ab7d-63a93b3830eb,Meknes,Morocco,33.8984131,-5.5321582,60150,Meknes,1.7,True
+8ef45676-53bf-4907-8ea1-b70c49ee8898,Gold Coast,Australia,-28.0023731,153.4145987,94580,Gold Coast Seaway,11.5,True
+72912524-0a45-40a7-8e75-2f149be0b5e1,Rarotonga,Cook Islands,-21.2368312,-159.7774744,91843,Rarotonga,5.8,True
+7b82951d-8bf9-40b7-8a4f-f7c6c33a7839,Funafuti,Tuvalu,-8.5199633,179.1982548,91643,Funafuti,2.1,True
+495888ba-fda1-4ae8-9643-bf29a4d35783,Playa del Carmen,Mexico,20.6308643,-87.0779503,76648,Cozumel / Banco Playa,18.6,True
+f71ebf76-ea24-4dab-b1c6-6cc7db2b1483,Sharm El Sheikh,Egypt,27.8644422,34.295447,62467,Dahab,72.6,True
+6565952d-672a-454a-9ca8-9734f890f4f8,Ayers Rock,Australia,-25.3455545,131.0369615,94462,Yulara,16.6,True
+6eadd02d-f32c-417c-bb80-d060574854dc,Moorea,French Polynesia,-17.533306,-149.8386006,91938,Tahiti-Faaa,23.6,True
+79ef5aa6-228e-4206-b00a-c78d150de33f,Salzburg,Austria,47.7981346,13.0464806,11150,Salzburg,3.5,True
+c0890bb0-1dc1-44ea-aaae-323f7eae6891,Turin,Italy,45.0677551,7.6824892,16061,Torino / Bric Della Croce,5.5,True
+7f89f78c-acd0-4474-ba0b-f5a3480265f7,Lugano,Switzerland,46.0050102,8.9520281,06770,Lugano,1.3,True
+d1bd5b72-0b5f-4968-98c8-c7433fc121e3,Goa,India,15.3004543,74.0855134,43192,Goa / Panjim,35.3,True
+c2007531-2344-4045-bc8e-c7785475829f,Islamabad,Pakistan,33.6938118,73.0651511,41571,Islamabad Airport,9.2,True
+f887e88d-fece-4030-904c-244950c2fbcc,Fortaleza,Brazil,-3.7304512,-38.5217989,82398,Fortaleza / pinto Martins,6.0,True
+a0ed4dcc-c815-4220-9b1b-c248ca8d7fbb,Antofagasta,Chile,-23.6463741,-70.3980033,85442,Antofagasta,24.0,True
+28ca3ed6-f676-4afa-aee0-6e51a6d14664,Bariloche,Argentina,-41.1334781,-71.3101474,87765,Bariloche Aerodrome,12.2,True
+b27904ec-af5d-44aa-aa43-0b1a133d65af,Quebec City,Canada,46.8137431,-71.2084061,71578,Beauport,3.0,True
+4923888e-b4bc-45ef-a085-8d4d0b63e467,Zion National Park,United States,37.3247408,-113.0048036,KAZC0,Colorado City / Centennial Park,40.6,True
+b2526d16-e196-4310-bfc1-11132b7609c4,Espiritu Santo,Vanuatu,-15.1563411,167.0510705,91554,Pekoa Airport Santo,43.8,True
+613265cd-5dfd-43b3-9488-b02ba5f760bb,Kota Kinabalu,Malaysia,5.9780066,116.0728988,96471,Kota Kinabalu,5.6,True
+39cf77ac-c2a3-4cb1-ae25-c7cb07c122ea,Lake Tahoe,United States,39.0885405,-120.0503528,KTVL0,South Lake Tahoe / Tahoe Valley,22.2,True
+cfa715d4-a4bc-4098-a4a0-4f1908b7d31e,Antalya,Turkey,36.8865728,30.7030242,17300,Antalya,20.9,True
+12e3b524-020c-47b5-a2ca-cc91986cc068,Cappadocia,Turkey,38.6386753,34.8457712,17193,Nevsehir,11.5,True
+f12ed1eb-9cc3-4130-857d-d0b44a884a24,Sidi Bou Said,Tunisia,36.8710935,10.3490516,60715,Tunis-Carthage,11.1,True
+5901959f-3547-4310-a352-26b7bdc5c648,Tehran,Iran,35.6892523,51.3896004,40754,Tehran-Mehrabad,3.6,True
+4c39d806-80b5-4c17-8d65-d669932c6b0a,Byron Bay,Australia,-28.6483333,153.6177778,94599,Cape Byron,5.6,True
+0ac79b0b-52e2-4a82-81f8-7037b479abd8,Port Douglas,Australia,-16.4845983,145.4636294,94285,Low Isles,17.3,True
+cfeb4496-538e-484f-9916-e9b72c6ceb5b,Tahiti,French Polynesia,-17.6873439,-149.4451681,91938,Tahiti-Faaa,23.7,True
+7b55c1af-cb3c-4d98-a0f4-1d25b46169f0,Santa Cruz de la Sierra,Bolivia,-17.7834217,-63.1820853,85245,Santa Cruz / El Trompillo,1.8,True
+a9269258-bf5e-4a33-9c09-808b6c94e613,Montego Bay,Jamaica,18.4724603,-77.9217357,78388,Montego Bay / Sangster,3.1,True
+a62cc361-2d5d-4e24-b6f1-92cb764c348b,Acapulco,Mexico,16.8680495,-99.8940182,76805,"Acapulco, Gro.",5.7,True
+c088e9eb-7dff-40bb-99a9-167f3f1e41c1,Manuel Antonio National Park,Costa Rica,9.3701476,-84.1520793,78762,Juan Santamaria,70.4,True
+443799ea-fcbb-4e6d-93f4-a93b566fabeb,Kuwait City,Kuwait,29.3796532,47.9734174,40582,Kuwait International Airport,18.1,True
+1eff31fe-7c4b-4c44-8903-21af5c9cee6f,Uluru,Australia,-25.3455545,131.0369615,94462,Yulara,16.6,True
+c1faff29-53b8-40cb-bff9-7a61b80ca761,Lautoka,Fiji,-17.6043956,177.4530138,91680,Nandi,16.2,True
+62d37ff4-2fe7-478b-80f1-e3295093b971,Nadi,Fiji,-17.7992725,177.4178549,91680,Nandi,6.5,True
+19a99c6a-6928-45e1-a301-8641c574de20,Lausanne,Switzerland,46.5218269,6.6327025,06610,Payerne,40.8,True
+8a08d8b4-53f9-4662-a275-cf3d38a4bccc,Vilamoura,Portugal,37.0759505,-8.1165401,08554,Faro / Aeroporto,14.8,True
+1c6eef16-2336-40a1-831c-7f079f7f8699,Cologne,Germany,50.938361,6.959974,D2968,Köln-Stammheim,5.8,True
+b4e07312-dd97-45dd-9ed0-53654f6e5056,Pisa,Italy,43.4714722,10.6797912,16158,Pisa / S. Giusto,33.5,True
+eddbf22e-af63-4a95-a7ff-3dd8545f9e2e,Kandy,Sri Lanka,7.2931208,80.6350358,43441,Kurunegala,35.3,True
+cc8ddc39-c410-4a92-aefc-09cfee5dbc79,Yangon,Myanmar,16.7967129,96.1609916,48097,Yangon,3.4,True
+15583c28-1e8a-46d5-b4c2-342b99cdb091,Lima,Peru,-12.0621065,-77.0365256,84628,Lima-Callao / Aerop. Internacional Jorgechavez,11.1,True
+676ac4da-c47a-4027-bc2e-8794a836fcf6,Iguazu Falls,Argentina,-25.6925324,-54.4411144,87097,Iguazu Aerodrome,5.2,True
+40236b15-2f9a-482a-8454-72ebd9dfed1b,Santa Marta,Colombia,11.2320944,-74.1950916,80009,Santa Marta / Simon Bolivar,11.7,True
+61367a40-b3c0-49c2-8f41-7d0b15056f03,Cali,Colombia,3.4519988,-76.5325259,80259,Cali / Alfonso Bonillaaragon,19.8,True
+2e1f1b6c-cf05-4393-b747-151592f27e7a,Cancun,Mexico,21.1527467,-86.8425761,76595,Cancun,61.0,True
+917e3c0b-4f5f-4333-b873-ccd8836da874,San Antonio,United States,29.4246002,-98.4951405,KSKF0,San Antonio / Lackland Air Force Base,9.5,True
+87be4d07-b23b-4477-a76e-a6649b328789,Malaga,Spain,36.7213028,-4.4216366,08482,Malaga / Aeropuerto,8.2,True
+a0200fc5-19ef-4717-9121-04e93ef60ae9,Medellín,Colombia,6.2697324,-75.6025597,80110,Medellin / Olaya Herrera,5.9,True
+1a386d6a-e1e0-4c8d-b452-ba6851cd56f6,Granada,Spain,37.1734995,-3.5995337,08420,Granada / Caserío Hospicio,4.9,True
+5d00db66-5d2c-450b-be1d-9c9bde506ac0,Linz,Austria,48.3059078,14.286198,11010,Linz / Hörsching,11.1,True
+ae4f0783-8381-40aa-a59f-21ac90f3ac43,Leipzig,Germany,51.3406321,12.3747329,10471,Leipzig,3.9,True
+63063324-d84d-44b2-9329-8f80e881d2db,Hue,Vietnam,16.4639321,107.5863388,48852,Hue,12.5,True
+e404bce8-ac29-4a27-bc11-a6e677c79ae9,Braga,Portugal,41.5510583,-8.4280045,08545,Porto / Pedras Rubras,41.3,True
+7cca7133-fa5c-4ef8-bf83-f9a9221130cb,Ha Long,Vietnam,20.9528365,107.0800003,48826,Phu Lien,49.4,True
+7501d127-18a5-4b9a-8b57-c171d707d2d8,Manaus,Brazil,-3.1316333,-59.9825041,82332,Manaus Aeroporto,2.0,True
+7517208d-21a3-426b-9489-798ff1e26967,San Andrés,Colombia,12.5375979,-81.7204155,80001,San Andres Isla / Sesquicentenario,5.1,True
+51be0fb4-70bd-42c9-90d2-1f3d18ac005c,Búzios,Brazil,-22.7597805,-41.8875267,SBME0,Macae / Barra,47.2,True
+7aed9c1b-6faa-4177-aea9-2c32c6ca34f9,Florianópolis,Brazil,-27.5973002,-48.5496098,83897,Florianopolis,2.3,True
+5407caa2-9db7-4bcb-af71-00b5f8146bf0,San Carlos de Bariloche,Argentina,-41.1334781,-71.3101474,87765,Bariloche Aerodrome,12.2,True
+2dddf603-1db5-4f2f-a38b-0ca221a2c029,Niagara Falls,Canada,43.1065603,-79.0639039,KIAG0,Niagara Falls / Walmore,9.6,True
+dbd636c4-9ea8-484d-8c03-ddd4afbef234,Darwin,Australia,-12.46044,130.8410469,94120,Darwin Airport,9.3,True
+4275d73f-3ab5-4d42-a0ec-d960af797dbd,Great Barrier Reef,Australia,-16.35,145.9,94285,Low Isles,32.5,True
+87d97654-895c-4b23-91a9-4683b9f17ca3,Amritsar,India,31.6356659,74.8787496,42071,Amritsar,1.2,True
+c6d2af39-1f3d-414e-a3fd-bfb3046ed797,Machu Picchu,Peru,-13.164422,-72.5450851,84686,Cuzco,74.4,True
+f8f7bb79-2b58-449d-80db-aec499bb2f24,Antwerp,Belgium,51.2211097,4.3997081,06450,Antwerpen / Deurne,5.2,True
+b896db96-451a-4b69-aa09-60c677573869,Nuremberg,Germany,49.453872,11.077298,10763,Nuernberg,5.5,True
+9df51067-3c5a-43b1-adad-bcd6778f096c,Funchal,Portugal,32.6496497,-16.9086783,08522,Funchal,2.0,True
+7a9eddac-e034-48ef-9bfd-6c22872b0b9f,Nuwara Eliya,Sri Lanka,7.012402,80.7571612,43473,Nuwara Eliya,5.2,True
+721438aa-e640-4fea-a704-7c336b9e6994,Naypyidaw,Myanmar,19.7753289,96.1032552,48300,Mae Hong Son,188.8,False
+b899c1cb-9a0f-4ee5-bf79-dcb5eef9f5ef,Rosario,Argentina,-32.9593609,-60.6617024,87480,Rosario Aerodrome,12.3,True
+bf26a0cb-e3b3-4849-89a3-619fff9c5cec,Nazca,Peru,-14.8277203,-74.9370624,84691,Pisco,188.2,False
+969d48bd-820e-41da-baef-370028e33139,Los Cabos,Mexico,21.166121,-100.936442,76577,"Guanajuato, Gto.",36.5,True
+25a78dc9-fc62-41fb-95db-b2557dacf493,Charleston,United States,32.7884363,-79.9399309,KJZI0,Charleston / Grimball Shores,11.4,True
+f995d5c0-49d2-495e-890e-c6aa0eda12d6,Cozumel,Mexico,20.4320599,-86.9206906,76648,Cozumel / Banco Playa,11.3,True
+9e8b73c7-88c3-44f5-ba9c-9f38389e0a27,Lille,France,50.6365654,3.0635282,07015,Lille,8.2,True
+f5d28e62-c1af-48f7-b421-abfc658ec04a,Arica,Chile,-18.4785288,-70.3211394,85406,Arica,16.2,True
+46c37e19-a316-4859-af1f-ceeb0405c996,Plitvice Lakes,Croatia,44.8523012,15.590349,14431,Zadar / Zemunik,85.8,True
+be2239a3-3b9f-4d90-bc3a-895bb5bb716c,Taupo,New Zealand,-38.6866197,176.0694773,93245,Taupo Aws,5.2,True
+44aaa492-d7a7-43bb-a9bf-4f0ecc209def,Yellowstone National Park,United States,44.6200885,-110.5606893,KP600,Yellowstone / Lake,13.8,True
+ba3d2dcb-3018-423f-8ede-9d98932aaf84,Key West,United States,24.5548262,-81.8020722,72201,Key West Airport,71.0,True
+7896af24-7851-4897-875f-8cc5a6b0db3d,Dunedin,New Zealand,-45.8740984,170.5035755,93891,Dunedin Aerodrome Aws,25.2,True
+9a10528e-3c25-4940-87d2-8128bf30ebf6,Kangaroo Island,Australia,-35.8182635,137.1566125,95807,Kingscote,33.7,True
+a1214554-4336-4df9-a684-9cf732fa5e4d,Bay of Islands,New Zealand,-35.2550085,174.1626731,93012,Kaitaia,83.2,True
+b5e5c850-d1b7-4e4e-a033-6d3ca99ec5f2,Aarhus,Denmark,56.1496278,10.2134046,06070,Tirstrup,30.0,True
+698a9015-6471-435f-ba0b-7abe02719fc7,Vancouver Island,Canada,49.5929495,-125.702557,AHRPL,Myra Creek,6.8,True
+91ace5e5-3303-4877-bc9d-7e024b7709f7,Savusavu,Fiji,-16.7802184,179.3328955,91652,Undu Point,102.4,True
+978b5150-6f7a-49df-948b-6100df026098,Bristol,United Kingdom,51.4538022,-2.5972985,EGTG0,Bristol / Filton,7.1,True
+69490fbc-853e-444e-87e4-b746d4798476,Rovaniemi,Finland,66.5025657,25.73122,02847,Rovaniemi Rautatieasema / Kuusela,0.7,True
+b5c30c5f-7fb4-4604-9a99-400be0c251d8,Viña del Mar,Chile,-33.0244535,-71.5517636,85574,Pudahuel,81.9,True
+f38b9348-e581-4de5-bafa-1efb5c28e458,Nelson,New Zealand,-41.2710849,173.2836756,NZNS0,Nelson / Monaco,6.0,True
+778d28df-a4fa-4328-896e-4a9f80216fda,Maun,Botswana,-19.9860951,23.4224352,68032,Maun,0.7,True
+44fb18eb-2641-46ab-b3fa-df6870ba3c74,Gothenburg,Sweden,57.7072326,11.9670171,02512,Goteborg Save Airport,9.8,True
+8c8c7203-2a45-44ba-9fb2-b5158104375e,Manchester,United Kingdom,53.4794892,-2.2451148,03334,Manchester Airport,14.6,True
+ba72b976-10f9-4415-a818-32cf17d8e649,Copenhagen,Denmark,55.6867243,12.5700724,06186,Koebenhavn / Landbohoejskolen,2.3,True
+62caf451-c399-4d64-a770-1efd93a603ef,Sucre,Bolivia,-19.0477251,-65.2594306,85283,Sucre,5.5,True
