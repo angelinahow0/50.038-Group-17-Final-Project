@@ -1,4 +1,4 @@
 step,left_rows,right_rows,matched,dropped,match_rate_pct
-WTC + Meteostat,560,542,552,8,98.6
+WTC + Meteostat,560,534,544,16,97.1
 master + Images,571,54,42,529,7.4
 master + CoL (strict),571,139,511,60,89.5

@@ -291,34 +291,34 @@ else:
 def safe_norm(s: pd.Series) -> pd.Series:
     mn, mx = s.min(), s.max()
     if mx == mn or pd.isna(mx):
-        return pd.Series(5.0, index=s.index)
-    return (s - mn) / (mx - mn) * 10
+        return pd.Series(0.5, index=s.index)
+    return (s - mn) / (mx - mn)
 
 components = {}
 
-# WTC composite score (activity dimensions, 1-5 mean -> normalise to 0-10)
+# WTC composite score (activity dimensions, 1-5 mean -> normalise to 0-1)
 wtc_present = [c for c in SCORE_COLS if c in df.columns]
 if wtc_present:
     df["wtc_composite"] = df[wtc_present].mean(axis=1)
-    components["wtc"]    = safe_norm(df["wtc_composite"]) * 0.40
+    components["wtc"]    = safe_norm(df["wtc_composite"]) * 0.35
 
-# Climate comfort from Meteostat (already 0-10)
+# Climate comfort from Meteostat (0-10 -> normalise to 0-1)
 if "meteo_avg_comfort" in df.columns:
-    components["climate"] = df["meteo_avg_comfort"].fillna(5) * 0.25
+    components["climate"] = (df["meteo_avg_comfort"].fillna(5) / 10) * 0.20
 
-# Kaggle image attractiveness (0–100 → normalise)
+# Kaggle image attractiveness (0–100 → normalise to 0-1)
 if "image_score" in df.columns:
-    components["visual"] = safe_norm(df["image_score"].fillna(0)) * 0.15
+    components["visual"] = safe_norm(df["image_score"].fillna(0)) * 0.20
 
 # CoL: higher purchasing power + lower cost = better value (invert cost index)
 if "col_cost_of_living_index" in df.columns:
     components["value"] = safe_norm(
-        100 - df["col_cost_of_living_index"].fillna(50)) * 0.20
+        100 - df["col_cost_of_living_index"].fillna(50)) * 0.25
 
 if components:
-    df["master_travel_score"] = sum(components.values()).clip(0, 10).round(2)
+    df["master_travel_score"] = sum(components.values()).clip(0, 1).round(4)
 else:
-    df["master_travel_score"] = 5.0
+    df["master_travel_score"] = 0.5
 
 # Climate zone from WTC region + climate data
 def climate_zone(row):
@@ -355,7 +355,7 @@ df = df.sort_values("master_travel_score", ascending=False).reset_index(drop=Tru
 df["rank_overall"] = df.index + 1
 
 print(f"\n  Master table: {len(df)} cities x {len(df.columns)} features")
-print(f"  Score range: {df['master_travel_score'].min():.2f} – {df['master_travel_score'].max():.2f}")
+print(f"  Score range: {df['master_travel_score'].min():.4f} – {df['master_travel_score'].max():.4f}")
 print(f"  Cities with all 3 external sources: {(df['source_count'] >= 4).sum()}")
 
 
