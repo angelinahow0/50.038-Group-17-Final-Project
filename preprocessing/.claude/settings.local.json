@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -3 scripts/01_fetch_raw_data.py)",
+      "Bash(py -3 -c \":*)",
+      "Bash(py -3 scripts/02_clean_datasets.py)",
+      "Bash(py -3 -W ignore scripts/02_clean_datasets.py)",
+      "Bash(py -3 -W ignore scripts/03_merge_datasets.py)",
+      "Bash(py -3 -W ignore -c \":*)"
+    ]
+  }
+}
