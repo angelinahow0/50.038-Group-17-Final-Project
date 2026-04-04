@@ -1,0 +1,9 @@
+preprocessing/data/synthetic/
+preprocessing/data/raw/
+preprocessing/data/cleaned/
+preprocessing/data/merged/
+models/v2_ranker.pkl
+*.pyc
+__pycache__/
+venv/
+path/
